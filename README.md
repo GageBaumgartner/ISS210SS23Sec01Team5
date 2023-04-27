@@ -10,3 +10,4 @@ SJImage4: https://stock.adobe.com/search?k=economic+justice 
 SJImage5: https://www.jamesgmartin.center/2018/08/social-justice-is-overrunning-the-university-of-texas/
 SJImage6: https://www.facebook.com/groups/1016906918423966/ 
 Zombies in Revolt: The Violent Revolution of American Cinematic Monsters; DOI: 10.15291/sic/2.4.lc.2 
+ISSimage1.jpeg https://www.un.org/en/un-chronicle/recognizing-and-overcoming-inequity-education
