@@ -12,3 +12,4 @@ Al’Abri, Khalaf. The Impact of Globalization on Education Policy of Developing
 Hasan, Amer, and Marilou Hyson. Early Childhood Education and Development in Poor Villages of Indonesia: Strong Foundations, Later Success. World Bank Publications, 2013.
 Youtube video from portfolio 2: https://www.youtube.com/watch?v=_4subqhHmNs&amp;t=15s. Accessed 27 Apr. 2023. 
 Article from portfolio 1: https://humanjourney.us/health-and-education-in-the-modern-world-section/education-in-the-developing-world/. 
+Book from Portfolio 6: https://books.google.com/books?hl=en&lr=&id=VuUqKNSG2AC&oi=fnd&pg=PP2&dq=childhood+education+and+development&ots=Ti06xXfSSM&sig=BU_2HnxqEDJtHhCiCsLG2M9oOIU#v=onepage&q&f=false
