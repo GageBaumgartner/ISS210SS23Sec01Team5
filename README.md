@@ -11,3 +11,4 @@ Antonio, Amy, and David Tuffley. “The Gender Digital Divide in Developing Coun
 Al’Abri, Khalaf. The Impact of Globalization on Education Policy of Developing Countries: Oman as an Example. Dec. 2011, https://infonomics-society.org/wp-content/uploads/licej/published-papers/volume-2-2011/The-Impact-of-Globalization-on-Education-Policy-of-Developing-Countries-Oman-as-an-Example.pdf.
 Hasan, Amer, and Marilou Hyson. Early Childhood Education and Development in Poor Villages of Indonesia: Strong Foundations, Later Success. World Bank Publications, 2013.
 “Pakistan: Improving Education through Greater Accountability and Resources in Punjab Province.” YouTube, World Bank, 17 Dec. 2018, https://www.youtube.com/watch?v=_4subqhHmNs&amp;t=15s. Accessed 27 Apr. 2023. 
+“Education in the Developing World.” The Human Journey, 25 Mar. 2023, https://humanjourney.us/health-and-education-in-the-modern-world-section/education-in-the-developing-world/. 
