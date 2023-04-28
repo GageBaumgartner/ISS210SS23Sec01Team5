@@ -1,4 +1,4 @@
-ISS210Image.png: 
+ISS210Image.png: https://www.vectorstock.com/royalty-free-vector/global-education-icon-logo-diversity-hands-vector-37054859
 ISSimage1.jpeg:
 Ipad.jpg:
 Money2.jpeg
