@@ -5,7 +5,7 @@ ISS210Pakistan.png: https://www.youtube.com/watch?v=_4subqhHmNs&amp;t=15s
 emikaimage.png: https://humanjourney.us/health-and-education-in-the-modern-world-section/education-in-the-developing-world/
 ISSimage1: https://www.un.org/en/un-chronicle/recognizing-and-overcoming-inequity-education
 ISS210Education.jpg: https://pixabay.com/images/search/graduation/
-EconomicEfficiency.pdf:https://books.google.com/bookshl=en&amp;lr=&amp;id=v5aQ2GPpa8YC&amp;oi=fnd&amp;pg=PP1&amp;dq=why%2Bdo%2Bwe%2Bneed%2Bto%2Bprovide%2Bequal%2Beducational%2Bopportunities&amp;ots=mhIhzC9z3T&amp;sig=neebaGUKEfyfWM_vo776LteCaRE#v=onepage&amp;q=why%20do%20we%20need%20to%20provide%20equal%20educational%20opportunities&amp;f=false. 
+EconomicEfficiency.pdf:  https://books.google.com/books?hl=en&lr=&id=v5aQ2GPpa8YC&oi=fnd&pg=PP1&dq=why+do+we+need+to+provide+equal+educational+opportunities&ots=mhIhzC9z3T&sig=neebaGUKEfyfWM_vo776LteCaRE#v=onepage&q=why%20do%20we%20need%20to%20provide%20equal%20educational%20opportunities&f=false
 Article from portfolio 1: https://humanjourney.us/health-and-education-in-the-modern-world-section/education-in-the-developing-world/.
 Youtube video from portfolio 2: https://www.youtube.com/watch?v=_4subqhHmNs&amp;t=15s.
 Pdf from portfolio 3: http://www.scielo.org.co/scielo.php?script=sci_arttext&amp;pid=S0120-35842018000100119. 
