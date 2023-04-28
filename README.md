@@ -2,8 +2,7 @@ ISS210Image.png: https://www.vectorstock.com/royalty-free-vector/global-educatio
 Ipad.jpg: https://www.un.org/sustainabledevelopment/education/
 Money2.jpeg: https://apnews.com/article/lifestyle-business-fe987428943c23fe0a1a470c4227fe52
 ISS210Pakistan.png: https://www.youtube.com/watch?v=_4subqhHmNs&amp;t=15s
-SJImage6: https://www.facebook.com/groups/1016906918423966/
-emikaimage.png: https://www.un.org/en/un-chronicle/recognizing-and-overcoming-inequity-education 
+emikaimage.png: https://humanjourney.us/health-and-education-in-the-modern-world-section/education-in-the-developing-world/
 ISSimage1: https://www.un.org/en/un-chronicle/recognizing-and-overcoming-inequity-education
 ISS210Education.jpg: https://pixabay.com/images/search/graduation/
 EconomicEfficiency.pdf: Carter, Prudence, and Kevin Welner. “Closing the Opportunity Gap.”, 2013, https://books.google.com/books?hl=en&amp;lr=&amp;id=v5aQ2GPpa8YC&amp;oi=fnd&amp;pg=PP1&amp;dq=why%2Bdo%2Bwe%2Bneed%2Bto%2Bprovide%2Bequal%2Beducational%2Bopportunities&amp;ots=mhIhzC9z3T&amp;sig=neebaGUKEfyfWM_vo776LteCaRE#v=onepage&amp;q=why%20do%20we%20need%20to%20provide%20equal%20educational%20opportunities&amp;f=false. 
