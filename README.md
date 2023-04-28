@@ -1,7 +1,7 @@
 ISS210Image.png: https://www.vectorstock.com/royalty-free-vector/global-education-icon-logo-diversity-hands-vector-37054859
 Ipad.jpg: https://www.un.org/sustainabledevelopment/education/
 Money2.jpeg: https://apnews.com/article/lifestyle-business-fe987428943c23fe0a1a470c4227fe52
-SJImage2: Youtube
+ISS210Pakistan.png: https://www.youtube.com/watch?v=_4subqhHmNs&amp;t=15s
 SJImage6: https://www.facebook.com/groups/1016906918423966/
 emikaimage.png: https://www.un.org/en/un-chronicle/recognizing-and-overcoming-inequity-education 
 ISSimage1: https://www.un.org/en/un-chronicle/recognizing-and-overcoming-inequity-education
